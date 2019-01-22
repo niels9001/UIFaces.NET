@@ -7,9 +7,10 @@
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <Copyright>2019, Niels Laute</Copyright>
     <PackageProjectUrl>https://github.com/niels9001/UIFaces.NET/</PackageProjectUrl>
-    <PackageTags>ui, uidesign, data, sampledata, uwp</PackageTags>
+    <PackageTags>ui, uidesign, data, sampledata, uwp, uifaces, face, faces</PackageTags>
     <PackageIconUrl>https://github.com/niels9001/UIFaces.NET/blob/master/Logo.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/niels9001/UIFaces.NET/</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
