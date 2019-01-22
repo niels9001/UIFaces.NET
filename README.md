@@ -1,5 +1,5 @@
 # UIFaces.NET
-A .NET Standard Library for using the UI Faces API.
+A .NET Standard Library for using the [UI Faces API](https://uifaces.co/).
 
 ## Usage
 The main class is [`UIFacesService`](https://github.com/niels9001/UIFaces.NET/blob/master/UIFaces.NET/Services/UIFacesService.cs). When using it you will need provide your API key [here](https://uifaces.co/api-docs).
