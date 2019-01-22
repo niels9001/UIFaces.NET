@@ -5,6 +5,11 @@
     <Authors>NielsLaute</Authors>
     <Company>NielsLaute</Company>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Copyright>2019, Niels Laute</Copyright>
+    <PackageProjectUrl>https://github.com/niels9001/UIFaces.NET/</PackageProjectUrl>
+    <PackageTags>ui, uidesign, data, sampledata, uwp</PackageTags>
+    <PackageIconUrl>https://github.com/niels9001/UIFaces.NET/blob/master/Logo.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/niels9001/UIFaces.NET/</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
