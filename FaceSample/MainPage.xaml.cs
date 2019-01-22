@@ -65,7 +65,7 @@ namespace FaceSample
             if (NeutralBox.IsChecked == true) { Emotions.Add("neutral"); }
 
 
-            UIFacesService Service = new UIFacesService("41ce8f96bade52007646eecac0a0c2");
+            UIFacesService Service = new UIFacesService("APP_KEY");
             List<Person> Persons = await Service.GetFaces(Limit, Offset, Genders, IsRandom, StartAge, FromAge, HairColors, Emotions);
             PersonsGridView.ItemsSource = Persons;
 
