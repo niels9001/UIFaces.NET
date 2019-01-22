@@ -50,7 +50,7 @@ namespace UIFaces.NET.Services
             }
             else
             {
-                throw new Exception("UI Faces API request failed: " + Response.StatusCode + " - " + Response.ReasonPhrase);
+                throw new Exception("API request failed: " + Response.StatusCode + " - " + Response.ReasonPhrase);
             }
         }
 
